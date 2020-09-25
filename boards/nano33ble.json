@@ -29,7 +29,8 @@
     "svd_path": "nrf52840.svd"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "mbed"
   ],
   "name": "Arduino Nano 33 BLE",
   "upload": {
